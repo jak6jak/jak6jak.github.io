@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Currently attendning University of Kentucky as a freshaman majoring in Computer Science.  
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am also involved with the Wildcat Marching band, Solar Car Team, and IEEE.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jacobedie1@gmail.com](mailto:email@domain.com)
