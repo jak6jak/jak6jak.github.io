@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2017-9-10 Introduction
-published: false
+published: true
 ---
 
 Hello, my name is Jacob Edie. I created this blog as a way to promote and host my "One code project per week challenge!" The main reason for making this challenge for myself was to help further develop my skills as a programmer and to work on my "completing" skills. I was partly inspired by lessmilk's "One game per week challenge."
@@ -16,5 +16,8 @@ Hello, my name is Jacob Edie. I created this blog as a way to promote and host m
 -I am also a part of IEEE or Institute of Electrical and Electronics Engineers.
 
 ## About the challenge
-The rules for this challenge are fairly simple. Create a small code project by Sunday at midnight and also create a blog post detailing the proccess of creating said project. The biggest challenge in this challenge will definitely be sticking to it. 
+The rules for this challenge are fairly simple. Create a small code project by Sunday at midnight and also create a blog post detailing the process of creating the said project. The biggest challenge will definitely be sticking to it. I think the biggest help against this will be having some sort of following to this challenge even if a small one. What I think would be a good motivator is to have some sort of accountability other than myself.
+
+
+
 
