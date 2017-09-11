@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017-9-10 Introduction
+title: Introduction
 published: true
 ---
 
